@@ -1,0 +1,24 @@
+.dark{
+    background-color: black;
+color: white;
+}
+
+body{
+
+transition:all 0.5s;
+}
+button{
+    padding: 10px 34px;
+background-color:rgb(255, 0, 0);
+    border: 1pxsolid black;
+border-radius:10px;
+
+
+    
+}
+.esconder{
+    display: none;
+}
+
+
+
